@@ -31,4 +31,4 @@ How to use it?
 3.右键窗口可以打开菜单
 4.窗口靠边可以自动隐藏
 
-          ![](https://github.com/cy69855522/AI-Note-Turn-pages-automatically-every-day/blob/master/Introduction.jpg)
+   ![](https://github.com/cy69855522/AI-Note-Turn-pages-automatically-every-day/blob/master/Introduction.jpg)
