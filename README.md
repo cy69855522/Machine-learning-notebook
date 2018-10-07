@@ -25,7 +25,7 @@ A PC program that provides one AI notebook per day to help accumulate AI knowled
      注意：
      1.这些小抄表来自机器学习网红Chris Albon博士。Chris 是一位很有热情的机器学习从业者、数据科学家，也是初创公司NewKnowldgeAI的联合创始人。
      2.如果你想要英文版本，可以从(https://machinelearningflashcards.com/)购买原始笔记，然后把图片放在“Notes”文件夹中使用这个软件。
-     3.Notes文件夹中翻译后的小抄图片来自公众微信号“机器学习初学者”。
+     3.Notes文件夹中翻译后的小抄图片来自微信公众号“机器学习初学者”。
 
      使用方法：
      1.解压 AI Notebook.zip
