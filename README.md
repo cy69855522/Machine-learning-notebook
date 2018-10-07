@@ -14,6 +14,8 @@ How to use it?
 3.Right-click interface to open the menu
 4.Window can be automatically hidden when they touch boundaries
 
+
+
 每日自动更换AI笔记的PC程序，帮助积累AI知识
      /AI Notebook.zip     成品
      /AI笔记本.e           易语言源码
@@ -28,3 +30,5 @@ How to use it?
 2.运行 ai_notebook.exe
 3.右键窗口可以打开菜单
 4.窗口靠边可以自动隐藏
+
+![](https://github.com/cy69855522/AI-Note-Turn-pages-automatically-every-day/blob/master/Introduction.jpg)
