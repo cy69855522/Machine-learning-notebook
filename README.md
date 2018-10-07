@@ -5,7 +5,7 @@ A PC program that provides one AI notebook per day to help accumulate AI knowled
      /AI笔记本.e           source code of E language
 
      Notice: 
-     1.These cheat sheets are from machine learning Dr. Chris Albon. Chris is a passionate machine learning practitioner, data scientist and co-founder of startup NewKnowldgeAI.
+     1.These notes are from machine learning Dr. Chris Albon. Chris is a passionate machine learning practitioner, data scientist and co-founder of startup NewKnowldgeAI.
      2.If you want an English version, you can buy the original notes from (https://machinelearningflashcards.com/) and put the pictures in the “Notes” folder to use this software.
      3.These translated cheat sheets are from the WeChat public account “机器学习初学者”.
 
@@ -23,7 +23,7 @@ A PC program that provides one AI notebook per day to help accumulate AI knowled
      /AI笔记本.e           易语言源码
      
      注意：
-     1.这些小抄表来自机器学习网红Chris Albon博士。Chris 是一位很有热情的机器学习从业者、数据科学家，也是初创公司NewKnowldgeAI的联合创始人。
+     1.这些小抄来自机器学习网红Chris Albon博士。Chris 是一位很有热情的机器学习从业者、数据科学家，也是初创公司NewKnowldgeAI的联合创始人。
      2.如果你想要英文版本，可以从(https://machinelearningflashcards.com/)购买原始笔记，然后把图片放在“Notes”文件夹中使用这个软件。
      3.Notes文件夹中翻译后的小抄图片来自微信公众号“机器学习初学者”。
 
