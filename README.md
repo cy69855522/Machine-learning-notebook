@@ -1,4 +1,4 @@
-# AI-Note——Turn-pages-automatically-every-day
+# Machine learning notebook ——Turn-pages-automatically-every-day 机器学习桌面小贴士
 A PC program that provides one AI notebook per day to help accumulate AI knowledge.
 
      /AI Notebook.zip     finished product
