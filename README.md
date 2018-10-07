@@ -1,5 +1,6 @@
 # AI-Note——Turn-pages-automatically-every-day
-A PC program that provides one AI notebook per day to help accumulate AI knowledge.\n
+A PC program that provides one AI notebook per day to help accumulate AI knowledge.
+
      /AI Notebook.zip     finished product
      /AI笔记本.e           source code of E language
 
