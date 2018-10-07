@@ -36,3 +36,4 @@ A PC program that provides one AI notebook per day to help accumulate AI knowled
 
 
 ![](https://github.com/cy69855522/AI-Note-Turn-pages-automatically-every-day/blob/master/Introduction.jpg)
+PDF版百度云链接：https://pan.baidu.com/s/1lCBlRI3yXbsxNDIu1p7wVg
